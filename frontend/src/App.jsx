@@ -46,7 +46,7 @@ function App() {
   }
   return (
     <>
-      <h1> Chai aur API in react </h1>
+      <h1> Hi ! I am Sumonta Saha Mridul </h1>
       {/* {loading && <h1>Loading............</h1>} */}
       <h2> Number of Products are: {products.length}</h2>
     </>
