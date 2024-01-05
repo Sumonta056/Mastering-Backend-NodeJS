@@ -5,7 +5,7 @@
 
 ###  ✌️ Dive deep into backend development to master the art of NodeJS. ✌️
 
-###  ✌️ Improving Node.js expertise with advanced insights and production-level techniques. ✌️
+###  ✌️ Node.js expertise with advanced insights and production-level techniques.✌️
 
 ### [**(✍️ Read My Documentation of Learning NodeJS and Backend Production)**](https://sumontas-organization.gitbook.io/mastering-backend-with-nodejs/)
 
@@ -26,7 +26,8 @@
 
 ## ✍️ Day 1 : Handling API Like Pro 
 
-[![Alt Text](./readmore.jpg)](https://www.freepik.com/free-photos-vectors/link-button)
+
+<a href="https://youtu.be/NxAwOjb_NlA"><img src="./readmore.jpg" width="250"></a>  <a href="https://github.com/Sumonta056/Mastering-Backend-NodeJS/commit/c9296c9852778e8546bfd21f5ee2385d0dd571c7"><img src="./click.jpg" width="220"></a>
 
 
 </div>
