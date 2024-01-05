@@ -1,5 +1,4 @@
 <div align = "center">
-<img src="./assets/React banner.png">
 
 # 🙄 Mastering-Backend-NodeJS  🙄
 
