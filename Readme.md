@@ -1,5 +1,6 @@
 <div align = "center">
-<img src="./assets/React banner.png">
+
+<img width=100 src="./Assets/node.png">
 
 # 🙄 Mastering-Backend-NodeJS  🙄
 
@@ -21,13 +22,17 @@
 
 <hr>
 
-
-
-
 ## ✍️ Day 1 : Handling API Like Pro 
 
+<a href="https://youtu.be/NxAwOjb_NlA"><img src="./Assets/readmore.jpg" width="250"></a>  <a href="https://github.com/Sumonta056/Mastering-Backend-NodeJS/commit/c9296c9852778e8546bfd21f5ee2385d0dd571c7"><img src="./Assets/click.jpg" width="220"></a>
 
-<a href="https://youtu.be/NxAwOjb_NlA"><img src="./readmore.jpg" width="250"></a>  <a href="https://github.com/Sumonta056/Mastering-Backend-NodeJS/commit/c9296c9852778e8546bfd21f5ee2385d0dd571c7"><img src="./click.jpg" width="220"></a>
+<hr>
+
+## ✍️ Day 2 : Building REST API's using Node and Express.js
+
+<a href="https://youtu.be/NxAwOjb_NlA"><img src="./Assets/readmore.jpg" width="250"></a>  <a href="https://github.com/Sumonta056/Mastering-Backend-NodeJS/commit/c9296c9852778e8546bfd21f5ee2385d0dd571c7"><img src="./Assets/click.jpg" width="220"></a>
+
+<hr>
 
 
 </div>
