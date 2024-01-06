@@ -3,12 +3,12 @@ const users = require("./MOCK_DATA.json");
 const fs = require("fs");
 const app = express();
 const swaggerUi = require('swagger-ui-express');
-const swaggerDocument = require('./swagger.json');
+const swaggerDocument = require('./swagger-output.json');
 
 // Middleware configuration
 app.use(express.urlencoded({ extended: false }));
 
-//swagger Documentation
+//swagger documentation
 app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerDocument));
 
 /*
