@@ -32,5 +32,10 @@
 
 <hr>
 
+## ✍️ Day 3 : API Documentation using Swagger.js
+
+<a href="https://sumontas-organization.gitbook.io/mastering-backend-with-nodejs/~/changes/KhIK6Nv3fZsDJznLcMUR/api-documentation-using-swagger"><img src="./Assets/readmore.jpg" width="250"></a>  <a href="https://github.com/Sumonta056/Mastering-Backend-NodeJS/commit/78ecda81664f63347769b6574c9aebdca6c236da"><img src="./Assets/click.jpg" width="260"></a>
+
+<hr>
 
 </div>
